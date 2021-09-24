@@ -1,5 +1,5 @@
  <a href="mailto:nsce9806q@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nsce9806q@gmail.com"/></a><br>
-Hi there 👋🏻 
+Hi there 👋🏻 <br>
 I'm interested in Data Science & Analysis
 
 ## Skills
