@@ -2,7 +2,7 @@
 Hi there 👋🏻 <br>
 I'm interested in Data Science & Analysis
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsce9806q&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
