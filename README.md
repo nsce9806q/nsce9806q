@@ -1,6 +1,5 @@
  <a href="mailto:nsce9806q@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nsce9806q@gmail.com"/></a><br>
-Hi there 👋🏻 <br>
-I'm interested in Data Science & Analysis
+🤪 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsce9806q&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
