@@ -11,3 +11,4 @@
 - AWS (EC2, RDS, S3, Route53, CloudFront, AMI, ELB)
 - Docker
 - K8s (열심히 공부 중...)
+- React (찍먹)
