@@ -1,3 +1,4 @@
+[Resume|Portfolio](https://linen-seaplane-b39.notion.site/06d4c67b74534087b03bb09274eebcfe)
 Backend Developer, interlocking like gears.  
 Currently intrested in **Reactive Programming (+Spring Webflux)**
 
