@@ -1,4 +1,4 @@
-[📜 Resume/Portfolio (Korean)](https://linen-seaplane-b39.notion.site/06d4c67b74534087b03bb09274eebcfe)  
+[📜 Resume/Portfolio (Korean)](https://linen-seaplane-b39.notion.site/Server-Developer-b4297f7dc5484bcc9fc757ccb60f5009)  
 *⚙️ Backend Developer, interlocking like gears.*  
 🤔 Currently intrested in **Reactive Programming (+Spring Webflux)**
 
